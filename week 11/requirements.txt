@@ -1,0 +1,2 @@
+sympy>=1.12
+automata-lib>=9.0,<10.0
